@@ -1,3 +1,3 @@
 "Hi ALLc"
 
-"This is new feature"
+"This is new feature (button)"
